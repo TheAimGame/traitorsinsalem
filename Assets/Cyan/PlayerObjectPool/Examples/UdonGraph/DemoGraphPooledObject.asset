@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4f11136daadff0b44ac2278a314682ab, type: 3}
   m_Name: DemoGraphPooledObject
   m_EditorClassIdentifier: 
-  serializedUdonProgramAsset: {fileID: 11400000, guid: 42c6cf3d3e0aa334f868f6d946029f05,
+  serializedUdonProgramAsset: {fileID: 11400000, guid: 7c489c9095f2fd64ab69a45b050193f4,
     type: 2}
   udonAssembly: ".data_start\r\n\r\n    .export Owner\r\n    .export text\r\n   
     .export value\r\n    .sync value, none\r\n    \r\n    __Boolean_0: %SystemBoolean,
